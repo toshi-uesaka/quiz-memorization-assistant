@@ -1,2 +1,2 @@
 # quiz-memorization-assistant
-A reviewing tool for QMA
+A review tool for QMA
